@@ -24,7 +24,7 @@ namespace Library
 
         /// <summary>
         /// Create an instance of a list.
-        /// Example usage: List<People> listPeople = Add.ListInstance<People>();
+        /// Example usage: List<People> listPeople = GenericMethod.ListInstance<People>();
         /// </summary>
 
         public static List<T> ListInstance<T>() where T : class, new()
