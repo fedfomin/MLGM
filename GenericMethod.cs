@@ -23,7 +23,7 @@ namespace Library
         }
 
         /// <summary>
-        /// Create an instance of a list.
+        /// Create an empty instance of a list.
         /// Example usage: List<People> listPeople = GenericMethod.ListInstance<People>();
         /// </summary>
 
